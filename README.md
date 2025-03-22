@@ -1,7 +1,6 @@
 🔗 [Confira minha bio sob outra perspectiva!](https://victoryusz.github.io/Victoryusz/) 
 
-## 🔥 Sobre mim
-<img src="icons/id-cardvv.png" height="30" alt="About Icon">
+<h2><img src="icons/id-cardvv.png" height="36.9" alt="About Icon"> Sobre mim</h2>
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e atualmente focado em **Cloud Computing**, buscando a certificação **AWS Cloud Practitioner (CLF-C02)**.
 
