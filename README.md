@@ -1,7 +1,3 @@
-# 👋 Seja bem-vindo(a) ao meu perfil!
-
----
-
 ## 🔥 Sobre mim
 
 <img src="icons/id-cardvv.png" height="30" alt="About Icon">
