@@ -1,3 +1,4 @@
+🔗 [Confira minha bio sob outra perspectiva!](https://victoryusz.github.io/Victoryusz/) 
 ## 🔥 Sobre mim
 
 <img src="icons/id-cardvv.png" height="30" alt="About Icon">
