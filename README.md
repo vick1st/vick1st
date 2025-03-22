@@ -6,9 +6,8 @@
 Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e atualmente focado em **Cloud Computing**, buscando a certificação **AWS Cloud Practitioner (CLF-C02)**.
 
 ---
+<h2><img src="icons/3d-display.png" height="36.9" alt="About Icon"> Tech Skills</h2>
 
-## 🛠️ Tech Skills
-<img src="icons/3d-display.png" height="30" alt="About Icon">
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="35" alt="Terraform">
     <img src="https://skillicons.dev/icons?i=aws" height="35" alt="AWS">
