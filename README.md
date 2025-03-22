@@ -1,6 +1,6 @@
 🔗 [Confira minha bio sob outra perspectiva!](https://victoryusz.github.io/Victoryusz/) 
-## 🔥 Sobre mim
 
+## 🔥 Sobre mim
 <img src="icons/id-cardvv.png" height="30" alt="About Icon">
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e atualmente focado em **Cloud Computing**, buscando a certificação **AWS Cloud Practitioner (CLF-C02)**.
@@ -8,7 +8,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnolog
 ---
 
 ## 🛠️ Tech Skills
-
+<img src="icons/3d-display.png" height="30" alt="About Icon">
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="35" alt="Terraform">
     <img src="https://skillicons.dev/icons?i=aws" height="35" alt="AWS">
