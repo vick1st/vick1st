@@ -10,7 +10,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e
     <img src="https://skillicons.dev/icons?i=aws" height="35" alt="AWS">
     <img src="https://skillicons.dev/icons?i=linux" height="35" alt="Linux">
     <img src="https://skillicons.dev/icons?i=py" height="35" alt="Python">
-    <img src="https://cdn.simpleicons.org/css3/1572B6" height="35" alt="CSS3">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" width="35" alt="CSS3"/>
     <img src="https://cdn.simpleicons.org/html5/E34F26" height="35" alt="HTML5">
 </p>
 
