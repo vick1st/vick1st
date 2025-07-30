@@ -3,6 +3,7 @@
 Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e atualmente focado em **Cloud Computing**, buscando a certificação **AWS Cloud Practitioner (CLF-C02)**.
 
 ---
+
 <h2><img src="icons/3d-display.png" height="36.9" alt="About Icon"> Tech Skills</h2>
 
 <p align="left">
@@ -10,7 +11,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e
     <img src="https://skillicons.dev/icons?i=aws" height="35" alt="AWS">
     <img src="https://skillicons.dev/icons?i=linux" height="35" alt="Linux">
     <img src="https://skillicons.dev/icons?i=py" height="35" alt="Python">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" width="35" alt="CSS3"/>
+    <img src="https://img.icons8.com/color/48/css3.png" height="42" alt="CSS3"/>
     <img src="https://cdn.simpleicons.org/html5/E34F26" height="35" alt="HTML5">
 </p>
 
