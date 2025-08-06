@@ -1,10 +1,10 @@
-<h2><img src="icons/id-cardvv.png" height="36.9" alt="About Icon"> Sobre mim</h2>
+<h2><img src="icons/metaverse.png" height="36.9" alt="About Icon"> Sobre mim</h2>
 
 Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e atualmente focado em **Cloud Computing**, buscando a certificação **AWS Cloud Practitioner (CLF-C02)**.
 
 ---
 
-<h2><img src="icons/3d-display.png" height="36.9" alt="About Icon"> Tech Skills</h2>
+<h2><img src="icons/info.png" height="36.9" alt="About Icon"> Tech Skills</h2>
 
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="35" alt="Terraform">
