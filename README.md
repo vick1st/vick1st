@@ -1,6 +1,12 @@
 <h2><img src="icons/metaverse.png" height="36.9" alt="About Icon"> Sobre mim</h2>
 
-Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e atualmente focado em **Cloud Computing**, buscando a certificação **AWS Cloud Practitioner (CLF-C02)**.
+👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas com foco em Backend,
+
+🎯 Aprendendo a construir APIs e aplicações web funcionais e seguras,
+
+☁️ Com grande interesse em Cloud, explorando o ecossistema AWS para a hospedagem e manutenção de aplicações,
+
+🎓 Estudando para a certificação AWS Cloud Practitioner (CLF-C02).
 
 ---
 
