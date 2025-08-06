@@ -4,7 +4,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e
 
 ---
 
-<h2><img src="icons/info.png" height="29.8" alt="About Icon"> Tech Skills</h2>
+<h2><img src="icons/info.png" height="27.7" alt="About Icon"> Tech Skills</h2>
 
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="35" alt="Terraform">
