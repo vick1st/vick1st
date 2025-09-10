@@ -6,7 +6,7 @@
 
 ---
 
-<h2><img src="icons/info.png" height="27.7" alt="About Icon"> Tech Skills</h2>
+<h2><img src="icons/id-cardv.png" height="27.7" alt="About Icon"> Tech Skills</h2>
 
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="Next.js" />
