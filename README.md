@@ -37,6 +37,7 @@
 ### 🛠️ Ferramentas & DevOps:
 <p align="left">
     <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" title="Linux" />
+    <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker"/>
     <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" title="AWS Services" />
     <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" title="Git" />
 </p>
