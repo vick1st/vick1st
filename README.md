@@ -9,13 +9,15 @@
 <h2><img src="icons/id-cardv.png" height="27.7" alt="About Icon"> Tech Skills</h2>
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=aws" height="35" alt="AWS">
-    <img src="https://skillicons.dev/icons?i=linux" height="35" alt="Linux">
-    <img src="https://skillicons.dev/icons?i=py" height="35" alt="Python">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TypeScript" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="Next.js" />
-    <img src="https://img.icons8.com/color/48/css3.png" height="42" alt="CSS3"/>
-    <img src="https://cdn.simpleicons.org/html5/E34F26" height="35" alt="HTML5">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="PostgreSQL" />
+    <img src="https://skillicons.dev/icons?i=aws" height="35" alt="AWS" />
+    <img src="https://skillicons.dev/icons?i=linux" height="35" alt="Linux" />
+    <img src="https://skillicons.dev/icons?i=py" height="35" alt="Python" />
+    <img src="https://skillicons.dev/icons?i=ts" height="35" alt="TypeScript" />
+    <img src="https://skillicons.dev/icons?i=css" height="35" alt="CSS3" />
+    <img src="https://skillicons.dev/icons?i=html" height="35" alt="HTML5" />
+    <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="Next.js" />
+
 </p>
 
 ---
