@@ -1,7 +1,7 @@
 <h2><img src="icons/metaverse.png" height="36.9" alt="About Icon"> Sobre mim</h2>
 
 🚀 Desenvolvedor Full Stack focado em sites e aplicações web
-🧩 Experiência em HTML, CSS, JavaScript, React e integrações com APIs
+<p>🧩 Experiência em HTML, CSS, JavaScript, React e integrações com APIs <p/>
 ✨ Criação de aplicações responsivas e otimizadas para SEO
 
 ---
