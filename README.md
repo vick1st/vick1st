@@ -1,18 +1,15 @@
 <h2><img src="icons/metaverse.png" height="36.9" alt="About Icon"> Sobre mim</h2>
 
-👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas com foco em Backend,
-
-🎯 Aprendendo a construir APIs e aplicações web funcionais e seguras,
-
-☁️ Com grande interesse em Cloud, explorando o ecossistema AWS para a hospedagem e manutenção de aplicações,
-
-🎓 Estudando para a certificação AWS Cloud Practitioner (CLF-C02).
+🚀 Desenvolvedor Full Stack focado em sites e aplicações web
+🧩 Experiência em HTML, CSS, JavaScript, React e integrações com APIs
+✨ Criação de aplicações responsivas e otimizadas para SEO
 
 ---
 
 <h2><img src="icons/info.png" height="27.7" alt="About Icon"> Tech Skills</h2>
 
 <p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="Next.js" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="35" alt="Terraform">
     <img src="https://skillicons.dev/icons?i=aws" height="35" alt="AWS">
     <img src="https://skillicons.dev/icons?i=linux" height="35" alt="Linux">
