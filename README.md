@@ -1,4 +1,4 @@
-<h2><img src="icons/id-card.png" height="36.9" alt="About Icon"> Sobre mim</h2>
+<h2><img src="icons/metaverse.png" height="36.9" alt="About Icon"> Sobre mim</h2>
 
 🚀 Desenvolvedor Full Stack focado em sites e aplicações web
 <p>🧩 Experiência em HTML, CSS, JavaScript, React e integrações com APIs <p/>
@@ -6,14 +6,14 @@
 
 ---
 
-<h2><img src="icons/info.png" height="27.7" alt="About Icon"> Tech Skills</h2>
+<h2><img src="icons/id-cardv.png" height="27.7" alt="About Icon"> Tech Skills</h2>
 
 <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="Next.js" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="35" alt="Terraform">
     <img src="https://skillicons.dev/icons?i=aws" height="35" alt="AWS">
     <img src="https://skillicons.dev/icons?i=linux" height="35" alt="Linux">
     <img src="https://skillicons.dev/icons?i=py" height="35" alt="Python">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TypeScript" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="Next.js" />
     <img src="https://img.icons8.com/color/48/css3.png" height="42" alt="CSS3"/>
     <img src="https://cdn.simpleicons.org/html5/E34F26" height="35" alt="HTML5">
 </p>
