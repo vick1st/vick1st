@@ -70,7 +70,7 @@
 - 🔥 Aprofundar conhecimentos em **arquitetura full stack**
 - 🚀 Desenvolver projetos end-to-end (React + Python/NestJS)
 - 📊 Dominar integração front-end e back-end com APIs RESTful
-- ☁️ Expandir conhecimentos em deploy e infraestrutura (AWS)
+- ☁️ Expandir conhecimentos em deploy e infraestrutura (AWS - Vercel)
 - 🤝 Contribuir para projetos open source da comunidade
 
 ---
