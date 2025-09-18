@@ -1,11 +1,4 @@
-# 👋 Olá! Sou Victor Hugo
-### 🎓 Estudante de Análise e Desenvolvimento de Sistemas | 🚀 Full Stack Developer
-
-> Criando soluções completas do front-end ao back-end
-
----
-
-## 💫 Sobre mim
+##  Sobre mim
 
 🚀 **Desenvolvedor Full Stack** em formação, construindo aplicações web completas  
 📚 Atualmente cursando **Análise e Desenvolvimento de Sistemas**  
@@ -44,28 +37,7 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Victoryusz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=00000000&title_color=64ffda&text_color=bb86fc&icon_color=03dac6&border_color=64ffda&border_radius=10"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victoryusz&layout=compact&theme=tokyonight&langs_count=8&bg_color=00000000&title_color=64ffda&text_color=bb86fc&border_color=64ffda&border_radius=10"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Victoryusz&theme=tokyonight&background=00000000&border=64ffda&stroke=03dac6&ring=bb86fc&fire=64ffda&currStreakNum=bb86fc&sideNums=03dac6&currStreakLabel=64ffda&sideLabels=bb86fc&dates=03dac6&border_radius=10" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 Conquistas
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Victoryusz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7&title_color=64ffda&text_color=bb86fc&icon_color=03dac6&border_color=64ffda" alt="GitHub Trophies" />
-</div>
-
----
-
-## ✨ Objetivos 2024/2025
+## ✨ Objetivos 2025/2026
 
 - 🔥 Aprofundar conhecimentos em **arquitetura full stack**
 - 🚀 Desenvolver projetos end-to-end (React + Python/NestJS)
@@ -75,7 +47,7 @@
 
 ---
 
-## 💬 Vamos Conversar?
+## Meios de contato
 
 <div align="center">
   
@@ -95,6 +67,4 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=64FFDA&background=00000000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Sempre+aprendendo+algo+novo+%F0%9F%93%9A;Criando+solu%C3%A7%C3%B5es+inovadoras+%F0%9F%92%A1" alt="Typing SVG" />
   
   <br><br>
-  
-  💻 *"Código limpo não é escrito seguindo regras. É escrito por programadores que se importam."* - Robert C. Martin
 </div>
