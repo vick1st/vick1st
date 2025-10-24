@@ -2,7 +2,6 @@
 
 🚀 **Desenvolvedor Full Stack** em formação, construindo aplicações web completas  
 📚 Atualmente cursando **Análise e Desenvolvimento de Sistemas**  
-💻 Experiência tanto no **front-end** (React, HTML, CSS, JS) quanto no **back-end** (Python, NestJS)  
 🎯 Sempre em busca de novos desafios e aprendizado contínuo  
 💡 Apaixonado por criar experiências digitais que fazem a diferença  
 
