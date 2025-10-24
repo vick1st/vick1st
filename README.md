@@ -14,7 +14,6 @@
     <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" title="HTML5" />
     <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" title="CSS3" />
     <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" title="JavaScript" />
-    <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" title="React" />
     <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" title="Next.js" />
     <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" title="TypeScript" />
 </p>
