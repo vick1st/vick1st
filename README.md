@@ -22,6 +22,8 @@
     <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" title="Python" />
     <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="NestJS" title="NestJS" />
     <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="PostgreSQL" title="PostgreSQL" />
+    <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="Supabase" title="Supabase" />
+
 </p>
 
 ### 🛠️ Ferramentas & DevOps:
