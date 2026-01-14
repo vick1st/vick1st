@@ -1,6 +1,6 @@
 ##  Sobre mim
 
-🚀 **Desenvolvedor Full Stack** em formação, construindo aplicações web completas  
+🚀 **Desenvolvedor Full Stack**, construindo aplicações web completas  
 📚 Atualmente cursando **Análise e Desenvolvimento de Sistemas**  
 🎯 Sempre em busca de novos desafios e aprendizado contínuo 
 
