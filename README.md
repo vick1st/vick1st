@@ -2,8 +2,7 @@
 
 🚀 **Desenvolvedor Full Stack** em formação, construindo aplicações web completas  
 📚 Atualmente cursando **Análise e Desenvolvimento de Sistemas**  
-🎯 Sempre em busca de novos desafios e aprendizado contínuo  
-💡 Apaixonado por criar experiências digitais que fazem a diferença  
+🎯 Sempre em busca de novos desafios e aprendizado contínuo 
 
 ---
 
@@ -14,14 +13,14 @@
     <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" title="HTML5" />
     <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" title="CSS3" />
     <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" title="JavaScript" />
+    <img src="https://skillicons.dev/icons?i=vue" height="40" alt="Vue.js" title="Vue.js" />
     <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel" title="Vercel" />
-    <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" title="Next.js" />
 </p>
 
 ### ⚙️ Back-End:
 <p align="left">
     <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" title="Python" />
-    <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="NestJS" title="NestJS" />
+    <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" title="Java" />
     <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="PostgreSQL" title="PostgreSQL" />
     <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="Supabase" title="Supabase" />
 
@@ -32,18 +31,20 @@
     <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" title="Linux" />
     <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker"/>
     <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" title="AWS Services" />
+    <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="Google Cloud Platform" title="Google Cloud Platform" />
+    <img src="https://skillicons.dev/icons?i=terraform" height="40" alt="Terraform" title="Terraform" />
     <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" title="Git" />
 </p>
 
 ---
 
-## ✨ Objetivos 2025/2026
+## ✨ Objetivos 2026/2027
 
 - 🔥 Aprofundar conhecimentos em **arquitetura full stack**
 - 🚀 Desenvolver projetos end-to-end
 - 📊 Dominar integração front-end e back-end com APIs RESTful
-- ☁️ Expandir conhecimentos em deploy e infraestrutura (AWS - Vercel)
-- 🤝 Contribuir para projetos open source da comunidade
+- ☁️ Expandir conhecimentos em deploy e infraestrutura (AWS - GCP)
+- 🤝 Contribuir em projetos open source da comunidade
 
 ---
 
@@ -64,7 +65,7 @@
   
   <br><br>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=64FFDA&background=00000000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Sempre+aprendendo+algo+novo+%F0%9F%93%9A;Criando+solu%C3%A7%C3%B5es+inovadoras+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=64FFDA&background=00000000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;DevOps+Jr+%F0%9F%93%9A;Resolvendo+problemas+reais!+%F0%9F%92%A1" alt="Typing SVG" />
   
   <br><br>
 </div>
